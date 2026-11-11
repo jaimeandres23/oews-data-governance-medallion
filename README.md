@@ -47,7 +47,7 @@ Mediante programación defensiva en **PySpark**, se establecieron reglas de vali
 ### 3. Trazabilidad y Linaje de Datos (*Data Lineage*)
 A través de **Unity Catalog**, se garantiza la trazabilidad completa de extremo a extremo (*end-to-end lineage*), permitiendo auditar qué notebooks transforman cada tabla y qué impacto tendría un cambio en la fuente original.
 
-*(Sube aquí tu imagen `data_lineage.png` usando: `![Linaje de Datos](images/data_lineage.png)`)*
+![Linaje de Datos](images/data_lineage.png)
 
 ---
 
